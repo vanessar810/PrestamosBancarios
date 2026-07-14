@@ -1,7 +1,7 @@
  Desarrolladores: SPRING (JAVA) y Front-end (React) Makers
 
 Optimización en sistemas financieros:
-Imagina que trabajas en una aplicación bancaria que debe procesar transacciones en tiempo real. ¿Qué estrategias aplicarías para mejorar el rendimiento y la escalabilidad? Considera aspectos como concurrencia, caché y patrones de diseño.
+1. Imagina que trabajas en una aplicación bancaria que debe procesar transacciones en tiempo real. ¿Qué estrategias aplicarías para mejorar el rendimiento y la escalabilidad? Considera aspectos como concurrencia, caché y patrones de diseño.
 
 Respuesta: para mejorar el rendimiento y la escalabilidad de este tipo de aplicaciones se debe considerar:
  usar procesamiento asincrónico para transacciones que no requieren respuesta inmediata, emplear thread pools para administrar los recursos de forma eficiente, proteger los datos compartidos mediante mecanismos de sincronización para evitar condiciones de carrera. 
